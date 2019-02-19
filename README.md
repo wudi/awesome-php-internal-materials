@@ -1,2 +1,4 @@
-# awesome-php-internal-materials
-A collection of awesome PHP internal materials
+# Awesome PHP Internal Materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> A collection of awesome PHP internal materials
+
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
